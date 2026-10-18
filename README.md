@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đức Lưu Lê</h1>
 <h3 align="center">Computer Science Undergraduate | University of Engineering and Technology, VNU</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gangstat197&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### About Me  
