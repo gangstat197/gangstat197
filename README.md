@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Duc Luu Le</h1>
 <h3 align="center">Computer Science Undergraduate | UET - VNU</h3>
----
+
 I'm a Computer Science undergraduate researcher at **University of Engineering and Technology, VNU (VNU-UET)**.
 
 My research focuses on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Reinforcement Learning**, particularly multilingual alignment.
