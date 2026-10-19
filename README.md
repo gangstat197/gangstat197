@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Đức Lưu Lê</h1>
-<h3 align="center">Computer Science Undergraduate | University of Engineering and Technology, VNU</h3>
+<h1 align="center">Hi, I'm Duc Luu Le</h1>
+<h3 align="center">Computer Science Undergraduate | UET - VNU</h3>
 ---
+I'm a Computer Science undergraduate researcher at **University of Engineering and Technology, VNU (VNU-UET)**.
 
-### About Me  
-- Experienced in LLMs / NLP application.
-- Currently working on **AI and AI-driven applications**  
-- Eager to contribute effectively through **real-world projects** and impactful collaborations  
-- Reach me at **ducluu197.work@gmail.com**
+My research focuses on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Reinforcement Learning**, particularly multilingual alignment.
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/gangstat197" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://kaggle.com/gangstat197" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/dliuu__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://facebook.com/luule.duc" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-</p>
+I'm also interested in **Vision-Language Models (VLMs)**, **Vision-Language-Action Models (VLAs)**, and **World Models**.
+
+### Featured Research & Projects
+
+**NeMA | Negative Reinforcement Learning for Multilingual Alignment**
+
+Research on multilingual alignment of large language models using negative reinforcement learning.
+
+*LLMs · Reinforcement Learning · Multilingual Alignment*
+
+### Connect
+
+[Email](mailto:ducluu197.work@gmail.com) · [LinkedIn](https://linkedin.com/in/gangstat197) · [Kaggle](https://kaggle.com/gangstat197)
+
